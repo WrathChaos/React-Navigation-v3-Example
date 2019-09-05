@@ -1,5 +1,7 @@
 # React-Navigation-v3-Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/WrathChaos/React-Navigation-v3-Example.svg)](https://greenkeeper.io/)
+
 ## Before run the project: 
 
 
